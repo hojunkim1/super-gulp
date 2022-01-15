@@ -15,6 +15,9 @@
     "@babel/core": "^7.16.7",
     "@babel/preset-env": "^7.16.8",
     "@babel/register": "^7.16.9",
-    "gulp": "^4.0.2"
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0",
+    "gulp-webserver": "^0.9.1"
   }
 }
