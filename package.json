@@ -1,0 +1,14 @@
+{
+  "name": "super-gulp",
+  "version": "1.0.0",
+  "description": "super-gulp",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "?"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
