@@ -3,12 +3,18 @@
   "version": "1.0.0",
   "description": "super-gulp",
   "main": "index.js",
+  "repository": "https://github.com/hojunkim1/super-gulp.git",
+  "author": "Hojun Kim <76956067+hojunkim1@users.noreply.github.com>",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "test": "?"
+    "dev": "gulp dev",
+    "build": "gulp build"
   },
   "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.8",
+    "@babel/register": "^7.16.9",
     "gulp": "^4.0.2"
   }
 }
